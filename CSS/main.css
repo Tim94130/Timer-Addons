@@ -119,19 +119,19 @@ form button:hover {
     transform: rotate(0deg);
   }
   25% {
-    content: url("Assets/dice2.svg");
+    content: url("../Assets/dice.svg");
     transform: rotate(90deg);
   }
   50% {
-    content: url("Assets/dice3.svg");
+    content: url("../Assets/dice.svg");
     transform: rotate(180deg);
   }
   75% {
-    content: url("Assets/dice4.svg");
+    content: url("../Assets/dice.svg");
     transform: rotate(270deg);
   }
   100% {
-    content: url("Assets/dice5.svg");
+    content: url("../Assets/dice.svg");
     transform: rotate(360deg);
   }
 }
